@@ -5,3 +5,6 @@
 .container-fluid {
     background-color: rgb(255, 200, 127);
 }
+.page-header {
+    background: pink;
+}
